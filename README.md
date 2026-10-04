@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Elvis Lartey
 
-<!--
-**Elvis2131/Elvis2131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Site Reliability & Platform Engineer at JPMorgan Chase, moving into AI Reliability Engineering (AIRE). I work on infrastructure reliability, cloud security tooling, and increasingly on assurance systems for AI-authored infrastructure.
 
-Here are some ideas to get you started:
+**Currently building**
+- [`preflight`](https://github.com/Elvis2131/preflight) — an architecture assurance engine for AI-authored infrastructure, written in Go.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas**
+- Site reliability engineering & platform infrastructure
+- Cloud security and compliance tooling (AWS/Azure/GCP)
+- Infrastructure as Code (Terraform, Ansible)
+- AI reliability engineering — applying SRE principles to AI systems
+
+**Links**
+- Blog: [lartey-kwei.reppl.sh](https://lartey-kwei.reppl.sh)
+
+---
+*Open to connecting on infrastructure reliability and AI reliability engineering topics.*
