@@ -13,6 +13,7 @@ Site Reliability & Platform Engineer at JPMorgan Chase, moving into AI Reliabili
 
 **Links**
 - Blog: [lartey-kwei.reppl.sh](https://lartey-kwei.reppl.sh)
+- Portfolio: [checkmygit.com/Elvis2131](https://checkmygit.com/Elvis2131)
 
 ---
 *Open to connecting on infrastructure reliability and AI reliability engineering topics.*
